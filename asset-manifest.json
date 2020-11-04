@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/caro/static/css/main.8e84c22b.chunk.css",
+    "main.js": "/caro/static/js/main.64ca2edb.chunk.js",
+    "main.js.map": "/caro/static/js/main.64ca2edb.chunk.js.map",
+    "runtime-main.js": "/caro/static/js/runtime-main.b84f2f81.js",
+    "runtime-main.js.map": "/caro/static/js/runtime-main.b84f2f81.js.map",
+    "static/js/2.c5010d1a.chunk.js": "/caro/static/js/2.c5010d1a.chunk.js",
+    "static/js/2.c5010d1a.chunk.js.map": "/caro/static/js/2.c5010d1a.chunk.js.map",
+    "index.html": "/caro/index.html",
+    "precache-manifest.158b3d4ebe25b8ef5c173cf70d2b1b67.js": "/caro/precache-manifest.158b3d4ebe25b8ef5c173cf70d2b1b67.js",
+    "service-worker.js": "/caro/service-worker.js",
+    "static/css/main.8e84c22b.chunk.css.map": "/caro/static/css/main.8e84c22b.chunk.css.map",
+    "static/js/2.c5010d1a.chunk.js.LICENSE.txt": "/caro/static/js/2.c5010d1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84f2f81.js",
+    "static/js/2.c5010d1a.chunk.js",
+    "static/css/main.8e84c22b.chunk.css",
+    "static/js/main.64ca2edb.chunk.js"
+  ]
+}
